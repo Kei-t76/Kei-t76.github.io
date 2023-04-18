@@ -57,7 +57,7 @@ content:
   - title: Research Themes # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      # - layout: left
+      - layout: middle
       - title: Computational Neuroscience
         description: ttt
     # - layout: left
