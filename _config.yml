@@ -57,8 +57,8 @@ content:
   - title: Research Themes # Title for the section
     layout: text # Type of content section (list/text)
     content: | 
-      <h2 style="text-align:center"><font size=1>Computational Neuroscience: 
-      <h2 style="text-align:center"><font size=1>Machine Learning: 
+      <h2 style="text-align:center"><font size=2>Computational Neuroscience: 
+      <h2 style="text-align:center"><font size=3>Machine Learning: 
 
     # content:
     #   - layout: list
