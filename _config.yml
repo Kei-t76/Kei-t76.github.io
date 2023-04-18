@@ -9,7 +9,7 @@ version: 2
 name: Keigo Tada
 title: Graduate school of Information Science and Engineering, Ritsumeikan University 
 email: is0463hx@ed.ritsumei.ac.jp
-address: 1-1-1 Nojihigashi, Kusatsu, Shiga 525-8577, Japan
+# address: 1-1-1 Nojihigashi, Kusatsu, Shiga 525-8577, Japan
 # website: www.github.com/sproogen/resume-theme
 
 # Dark Mode (true/false/never)
@@ -22,11 +22,11 @@ github_username:  sproogen
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: jameswgrant
+# instagram_username: jameswgrant
 linkedin_username: jameswgrant
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: globalmtb
+# youtube_username: globalmtb
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
