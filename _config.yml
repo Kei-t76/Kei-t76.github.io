@@ -56,7 +56,7 @@ about_content: | # this will include new lines to allow paragraphs
 content:
   - title: Research Themes # Title for the section
     layout: text # Type of content section (list/text)
-    description: 
+    content: | 
       Computational Neuroscience
 
       Machine Learning
