@@ -96,9 +96,9 @@ content:
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          Advisor: Katsunori Kitano
+          <font size=3><b>Advisor:<b> Katsunori Kitano
 
-          Topics: retinitis pigmentosa/photopsia/Spontaneous Oscillation
+          <font size=3><b>Topics:<b> retinitis pigmentosa/photopsia/Spontaneous Oscillation
 
   - title: Publication # Title for the section
     layout: list # Type of content section (list/text)
