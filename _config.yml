@@ -58,9 +58,9 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: middle
-      - title: Computational Neuroscience
+        title: Computational Neuroscience
         description: ttt
-    # - layout: left
+
         title: Machine Learning
         description: ttt
         # - subtitle: Computational Neuroscience
