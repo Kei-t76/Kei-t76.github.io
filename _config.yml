@@ -107,8 +107,8 @@ content:
         # link: boringcompany.com
         # link_text: boringcompany.com
         description: | # this will include new lines to allow paragraphs
-            <h2 style="text-align:left"><font size=3><b>A computational model for normal and pathological activity of the retinal circuit<b>
-            <h2 style="text-align:left"><font size=3><b>A Computational Model for Spontaneous Oscillation in Retinitis Pigmentosa<b>
+            <h2 style="text-align:left"><font size=3><b>A computational model for normal and pathological activity of the retinal circuit</b>
+            <h2 style="text-align:left"><font size=3><b>A Computational Model for Spontaneous Oscillation in Retinitis Pigmentosa</b>
 
 
       - layout: left
