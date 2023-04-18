@@ -108,10 +108,8 @@ content:
         # link: boringcompany.com
         # link_text: boringcompany.com
         description: | # this will include new lines to allow paragraphs
-            <font size=3><b>A computational model for normal and pathological activity of the retinal circuit<b>
-
-
-            <font size=3><b>A Computational Model for Spontaneous Oscillation in Retinitis Pigmentosa<b>
+            <h2 style="text-align:left"><font size=3><b>A computational model for normal and pathological activity of the retinal circuit<b>
+            <h2 style="text-align:left"><font size=3><b>A Computational Model for Spontaneous Oscillation in Retinitis Pigmentosa<b>
 
 
       - layout: left
@@ -119,7 +117,7 @@ content:
         # link: boringcompany.com
         # link_text: boringcompany.com
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+            Every
 
   - title: Internship # Title for the section
     layout: list # Type of content section (list/text)
