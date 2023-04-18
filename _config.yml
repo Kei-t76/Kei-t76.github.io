@@ -56,7 +56,7 @@ about_content: | # this will include new lines to allow paragraphs
 content:
   - title: Research Themes # Title for the section
     layout: text # Type of content section (list/text)
-    content: | 
+    description: | 
       <h2 style="text-align:center"><font size=4><b>Computational Neuroscience: </b> retinal neural circuit/retinitis pigmentosa/photopsia
       <h2 style="text-align:center"><font size=4><b>Machine Learning: </b> Out-of-Distribution Generalization/Uncertainty/Calibration
 
