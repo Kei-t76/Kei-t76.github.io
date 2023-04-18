@@ -58,10 +58,10 @@ content:
     layout: list # Type of content section (list/text)
     content:
       # - layout: left
-      - sub_title: Computational Neuroscience
+      - title: Computational Neuroscience
         description: ttt
     # - layout: left
-        sub_title: Machine Learning
+        title: Machine Learning
         description: ttt
         # - subtitle: Computational Neuroscience
         #   description: ttt
