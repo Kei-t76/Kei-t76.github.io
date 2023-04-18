@@ -59,6 +59,8 @@ content:
     content:
       - layout: top-middle
         title: research interests
+          - layout: left
+          title: Computational Neuroscience
         # - subtitle: Computational Neuroscience
         #   description: ttt
         # - subtitle: Machine Learning
