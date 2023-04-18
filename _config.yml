@@ -57,6 +57,7 @@ content:
   - title: Research Themes # Title for the section
     layout: text # Type of content section (list/text)
     content: | 
+      <h2 style="text-align:center">中央寄せ</h2>
       Computational Neuroscience
 
       Machine Learning
