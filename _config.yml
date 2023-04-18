@@ -3,11 +3,11 @@ repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
 # Content configuration version
-version: 2
+version: 1
 
 # Personal info
 name: Keigo Tada
-title: Senior Network System Administrator
+title: Graduate school of Information Science and Engineering, Ritsumeikan University 
 email: is0463hx@ed.ritsumei.ac.jp
 website: www.github.com/sproogen/resume-theme
 
