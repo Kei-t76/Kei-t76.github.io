@@ -127,7 +127,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Hutzper
+        title: Hutzper Inc.
         link: https://hutzper.com
         # link_text: boringcompany.com
         sub_title: AI(computer vision) engineer
