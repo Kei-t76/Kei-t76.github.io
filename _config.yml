@@ -59,6 +59,8 @@ content:
     content:
       - layout: top-middle
         title: research interests
+        - subtitle: Computational Neuroscience
+        - subtitle: Machine Learning
         # link: github.com/sproogen
         # link_text: Project Website
         # additional_links:
