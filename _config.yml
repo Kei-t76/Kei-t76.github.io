@@ -119,10 +119,13 @@ content:
         # link_text: boringcompany.com
         description: | # this will include new lines to allow paragraphs
             <h2 style="text-align:left"><font size=3><b>How Image Corruption and Perturbation Affect Out-Of-Distribution Generalization and Calibration</b>
+            <br><i><u>Keigo Tada</u></i>, <i>Hiroki Naganuma</i>, International Joint Conference on Neural Networks (IJCNN), 2023.
 
             <br><h2 style="text-align:left"><font size=3><b>Measuring the Effect of Image Corruption and Perturbation through the Lens of Calibration and OOD</b>
+            <br><i><u>Keigo Tada</u></i>, <i>Hiroki Naganuma</i>, The 85th National Convention of Information Processing Society of Japan, 2023.
 
             <br><h2 style="text-align:left"><font size=3><b>Effect of Distribution Shift on Out-of-Distribution Generalization and Uncertainty</b>
+            <br><i><u>Keigo Tada<sup>#</sup></u></i>, <i>Hiroki Naganuma<sup>#</sup></i>, Forum for Information and Technology 2022 (FIT2022), 2022. # denotes equal contribution
 
   - title: Internship # Title for the section
     layout: list # Type of content section (list/text)
