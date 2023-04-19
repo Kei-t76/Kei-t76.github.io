@@ -107,11 +107,12 @@ content:
         # link: boringcompany.com
         # link_text: boringcompany.com
         description: | # this will include new lines to allow paragraphs
-            <h2 style="text-align:left"><font size=3><b>A computational model for normal and pathological activity of the retinal circuit</b>
-            <br><i><u>Keigo Tada</u></i>, <i>Katsunori kitano</i>, The Association for Research in Vision and Ophthalmology, 2023.
-            
             <br><h2 style="text-align:left"><font size=3><b>A Computational Model for Spontaneous Oscillation in Retinitis Pigmentosa</b>
             <br><i><u>Keigo Tada</u></i>, <i>Katsunori kitano</i>, The 46th Annual Meeting of the Japan Neuroscience Society, 2023.
+
+            <h2 style="text-align:left"><font size=3><b>A computational model for normal and pathological activity of the retinal circuit</b>
+            <br><i><u>Keigo Tada</u></i>, <i>Katsunori kitano</i>, The Association for Research in Vision and Ophthalmology, 2023.
+          
 
       - layout: left
         title: Machine Learning
@@ -149,9 +150,7 @@ content:
   - title: Others
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
+
 
 # Footer
 footer_show_references: true
