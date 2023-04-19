@@ -122,7 +122,7 @@ content:
             <br><i><u>Keigo Tada</u></i>, <i>Hiroki Naganuma</i>, International Joint Conference on Neural Networks (IJCNN), 2023.
 
             <br><h2 style="text-align:left"><font size=3><b>Measuring the Effect of Image Corruption and Perturbation through the Lens of Calibration and OOD</b>
-            <br><i><u>Keigo Tada</u></i>, <i>Hiroki Naganuma</i>, The 85th National Convention of Information Processing Society of Japan, 2023.
+            <br><i><u>Keigo Tada</u></i>, <i>Hiroki Naganuma</i>, The 85th National Convention of Information Processing Society of Japan (IPSJ), 2023.
 
             <br><h2 style="text-align:left"><font size=3><b>Effect of Distribution Shift on Out-of-Distribution Generalization and Uncertainty</b>
             <br><i><u>Keigo Tada</u><sup>#</sup></i>, <i>Hiroki Naganuma<sup>#</sup></i>, Forum for Information and Technology 2022 (FIT2022), 2022. # denotes equal contribution
@@ -144,14 +144,12 @@ content:
   - title: Scholarship
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      - Academic Excellence Scholarship for 1st Year of Enrollment
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      # - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+
+      # Look at this cool image  
+      # ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 
   - title: Others
