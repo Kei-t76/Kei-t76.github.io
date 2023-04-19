@@ -146,12 +146,6 @@ content:
     content: | # this will include new lines to allow paragraphs
       - Academic Excellence Scholarship for 1st Year of Enrollment
 
-      # - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      # Look at this cool image  
-      # ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
-
-
   - title: Others
     layout: text
     content: | # this will include new lines to allow paragraphs
