@@ -57,7 +57,7 @@ content:
   - title: Research Themes # Title for the section
     layout: text # Type of content section (list/text)
     content: | 
-      <h2 style="text-align:center"><font size=4><b>Computational Neuroscience: </b> retinal neural circuit/retinitis pigmentosa/photopsia
+      <h2 style="text-align:center"><font size=4><b>Computational Neuroscience: </b> Retinal neural circuit/Retinitis Pigmentosa/Photopsia
       <h2 style="text-align:center"><font size=4><b>Machine Learning: </b> Out-of-Distribution Generalization/Uncertainty/Calibration
 
     # content:
@@ -91,7 +91,7 @@ content:
     content:
       - layout: left
         title: Ritsumeikan University 
-        caption: 2018 - 2022, 2022 - 2024
+        caption: Apr.2018 - Mar.2022, Apr.2022 -
         sub_title: BA & MA Information Science and Engineering
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
@@ -108,6 +108,7 @@ content:
         # link_text: boringcompany.com
         description: | # this will include new lines to allow paragraphs
             <h2 style="text-align:left"><font size=3><b>A computational model for normal and pathological activity of the retinal circuit</b>
+            <br><i><u>Keigo Tada</u></i>, <i>Katsunori kitano</i>
             
             <br><h2 style="text-align:left"><font size=3><b>A Computational Model for Spontaneous Oscillation in Retinitis Pigmentosa</b>
 
