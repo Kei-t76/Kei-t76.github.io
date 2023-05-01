@@ -47,8 +47,8 @@ darkmode: false
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
-about_content: | # this will include new lines to allow paragraphs
+# about_profile_image: images/profile.jpg
+# about_content: | # this will include new lines to allow paragraphs
 
 content:
   - title: Research Themes # Title for the section
