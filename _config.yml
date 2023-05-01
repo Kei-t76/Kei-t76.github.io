@@ -57,8 +57,8 @@ content:
   - title: Research Themes # Title for the section
     layout: text # Type of content section (list/text)
     content: | 
-      <h2 style="text-align:center"><font size=4><b><font color="#00ff00">B</font>iological Vision: </b> Retinal neural circuit/Retinitis Pigmentosa/Photopsia
-      <h2 style="text-align:center"><font size=4><b><font color="#ffa500">C</font>omputer Vision: </b> Out-of-Distribution Generalization/Uncertainty/Calibration
+      <h2 style="text-align:center"><font size=4><b><font color="#00ff00">Bio</font>logical Vision: </b> Retinal neural circuit/Retinitis Pigmentosa/Photopsia
+      <h2 style="text-align:center"><font size=4><b><font color="#ffa500">Com</font>puter Vision: </b> Out-of-Distribution Generalization/Uncertainty/Calibration
 
     # content:
     #   - layout: list
@@ -104,7 +104,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: <font color="#00ff00">B</font>iological Vision
+        title: <font color="#00ff00">Bio</font>logical Vision
         # link: boringcompany.com
         # link_text: boringcompany.com
         description: | # this will include new lines to allow paragraphs
@@ -116,7 +116,7 @@ content:
           
 
       - layout: left
-        title: <font color="#ffa500">C</font>omputer Vision
+        title: <font color="#ffa500">Com</font>puter Vision
         # link: boringcompany.com
         # link_text: boringcompany.com
         description: | # this will include new lines to allow paragraphs
