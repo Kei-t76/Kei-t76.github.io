@@ -100,7 +100,7 @@ content:
           <br><font size=3><b>Topics:</b> retinitis pigmentosa/photopsia/Spontaneous Oscillation
           <br><font size=3><b>Lab:</b> <a href="https://cns.ci.ritsumei.ac.jp"></a>
 
-  - title: Publication # Title for the section
+  - title: Publications # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
