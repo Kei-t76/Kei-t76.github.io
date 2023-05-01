@@ -57,7 +57,7 @@ content:
   - title: Research Themes # Title for the section
     layout: text # Type of content section (list/text)
     content: | 
-      <h2 style="text-align:center"><font size=4><b>Biological Vision: </b> Retinal neural circuit/Retinitis Pigmentosa/Photopsia
+      <h2 style="text-align:center"><font size=4><b>Biological Vision: </b> Retinal neural circuit/Spontaneous oscillation/Retinitis pigmentosa/Photopsia
       <h2 style="text-align:center"><font size=4><b>Computer Vision: </b> Out-of-Distribution Generalization/Uncertainty/Calibration
 
     # content:
@@ -97,7 +97,7 @@ content:
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
           <font size=3><b>Advisor:</b> Katsunori Kitano
-          <br><font size=3><b>Topics:</b> Retinitis Pigmentosa/Photopsia/Spontaneous Oscillation
+          <br><font size=3><b>Topics:</b> Retinitis pigmentosa/Photopsia/Spontaneous Oscillation
           <br><font size=3><b>Lab: <a href="https://cns.ci.ritsumei.ac.jp">Computational Neuroscience Lab</a>
 
   - title: Publications # Title for the section
