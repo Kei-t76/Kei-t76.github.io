@@ -148,6 +148,7 @@ content:
   - title: Others
     layout: text
     content: | # this will include new lines to allow paragraphs
+      - Award M-BIP 2022 (Matching HUB Bussiness Idea & Plan Compettition 2022)
 
 
 # Footer
