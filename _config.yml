@@ -101,7 +101,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: <font color="#00ff00">Bio</font>logical Vision
+        title: <font color="#32cd32">Bio</font>logical Vision
         # link: boringcompany.com
         # link_text: boringcompany.com
         description: | # this will include new lines to allow paragraphs
