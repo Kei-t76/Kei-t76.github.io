@@ -117,7 +117,10 @@ content:
         # link: boringcompany.com
         # link_text: boringcompany.com
         description: | # this will include new lines to allow paragraphs
-            <h2 style="text-align:left"><font size=3><b>How Image Corruption and Perturbation Affect Out-Of-Distribution Generalization and Calibration [paper]</b>
+            <h2 style="text-align:left"><font size=3><b>Uncertainty Calibration in Deep Neural Networks through Invariant Risk Minimization [oral session]</b>
+            <br><i>Kotaro Yoshida</i>, <i><u>Keigo Tada</u><sup>#</sup></i>, <i>Hiroki Naganuma<sup>#</sup></i>, Forum for Information and Technology 2023 (FIT2023), 2023. # denotes equal contribution
+
+            <br><h2 style="text-align:left"><font size=3><b>How Image Corruption and Perturbation Affect Out-Of-Distribution Generalization and Calibration [paper]</b>
             <br><i><u>Keigo Tada</u></i>, <i>Hiroki Naganuma</i>, International Joint Conference on Neural Networks (IJCNN), 2023.
 
             <br><h2 style="text-align:left"><font size=3><b>Measuring the Effect of Image Corruption and Perturbation through the Lens of Calibration and OOD [oral session, <font color="#dc143c">Student Encouragement Award</font>]</b>
