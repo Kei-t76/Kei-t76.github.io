@@ -49,7 +49,7 @@ darkmode: false
 about_title: About Me
 # about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Researching biological & computer vision
+  <h2 style="text-align:center">Researching biological & computer vision
 
 content:
   - title: Research Themes # Title for the section
