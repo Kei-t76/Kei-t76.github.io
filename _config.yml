@@ -105,10 +105,10 @@ content:
         # link: boringcompany.com
         # link_text: boringcompany.com
         description: | # this will include new lines to allow paragraphs
-            <h2 style="text-align:left"><font size=3><b>A Computational Model for Spontaneous Oscillation in Retinitis Pigmentosa</b>[poster session]
+            <h2 style="text-align:left"><font size=3><b>A Computational Model for Spontaneous Oscillation in Retinitis Pigmentosa [poster session]</b>
             <br><i><u>Keigo Tada</u></i>, <i>Katsunori Kitano</i>, The 46th Annual Meeting of the Japan Neuroscience Society, 2023.
 
-            <br><h2 style="text-align:left"><font size=3><b>A computational model for normal and pathological activity of the retinal circuit</b>[poster session]
+            <br><h2 style="text-align:left"><font size=3><b>A computational model for normal and pathological activity of the retinal circuit [poster session]</b>
             <br><i><u>Keigo Tada</u></i>, <i>Katsunori Kitano</i>, The Association for Research in Vision and Ophthalmology (ARVO), 2023.
           
 
@@ -117,13 +117,13 @@ content:
         # link: boringcompany.com
         # link_text: boringcompany.com
         description: | # this will include new lines to allow paragraphs
-            <h2 style="text-align:left"><font size=3><b>How Image Corruption and Perturbation Affect Out-Of-Distribution Generalization and Calibration</b>[paper]
+            <h2 style="text-align:left"><font size=3><b>How Image Corruption and Perturbation Affect Out-Of-Distribution Generalization and Calibration [paper]</b>
             <br><i><u>Keigo Tada</u></i>, <i>Hiroki Naganuma</i>, International Joint Conference on Neural Networks (IJCNN), 2023.
 
-            <br><h2 style="text-align:left"><font size=3><b>Measuring the Effect of Image Corruption and Perturbation through the Lens of Calibration and OOD</b>[oral session, <font color="#dc143c">Student Encouragement Award</font>]
+            <br><h2 style="text-align:left"><font size=3><b>Measuring the Effect of Image Corruption and Perturbation through the Lens of Calibration and OOD [oral session, <font color="#dc143c">Student Encouragement Award</font>]</b>
             <br><i><u>Keigo Tada</u></i>, <i>Hiroki Naganuma</i>, The 85th National Convention of Information Processing Society of Japan (IPSJ), 2023.
 
-            <br><h2 style="text-align:left"><font size=3><b>Effect of Distribution Shift on Out-of-Distribution Generalization and Uncertainty</b>[oral session]
+            <br><h2 style="text-align:left"><font size=3><b>Effect of Distribution Shift on Out-of-Distribution Generalization and Uncertainty [oral session]</b>
             <br><i><u>Keigo Tada</u><sup>#</sup></i>, <i>Hiroki Naganuma<sup>#</sup></i>, Forum for Information and Technology 2022 (FIT2022), 2022. # denotes equal contribution
 
   - title: Internship # Title for the section
