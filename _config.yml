@@ -157,7 +157,7 @@ content:
   - title: Paper List
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - <a href="https://cns.ci.ritsumei.ac.jp">Paper List</a>
+      - <a href="https://kei-t76.github.io/paper_list">Paper List</a>
 
 # Footer
 footer_show_references: true
