@@ -149,15 +149,15 @@ content:
   - title: Scholarship
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - Travel Grant:Academic Conference Scholarship overseas, <a href="http://www.iisf.or.jp/index.html">International Information Science Foundation</a>
+      - Travel Grant: Academic Conference Scholarship overseas, <a href="http://www.iisf.or.jp/index.html">International Information Science Foundation</a>
       - Academic Excellence Scholarship for 2nd Year Students
       - Academic Excellence Scholarship for 1st Year of Enrollment
 
-  - title: Others
+  - title: Award
     layout: text
     content: | # this will include new lines to allow paragraphs
       - Student Encouragement Award, <a href="https://www.ipsj.or.jp/event/taikai/85/index.html">IPSJ2023</a>
-      - Award: M-BIP 2022 (Matching HUB Bussiness Idea & Plan Competition 2022)
+      - Prize-winner, Matching HUB Bussiness Idea & Plan Competition 2022
 
   # - title: Paper List
   #   layout: text
