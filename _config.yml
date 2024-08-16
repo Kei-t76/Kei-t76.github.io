@@ -120,7 +120,7 @@ content:
         # link: boringcompany.com
         # link_text: boringcompany.com
         description: | # this will include new lines to allow paragraphs
-            <h2 style="text-align:left"><font size=4><b>Paper</b>
+            <h2 style="text-align:left"><font size=5><b><font color="##C0C0C0">Paper</font></b>
 
             <h2 style="text-align:left"><font size=3><b>Uncertainty Calibration in Deep Neural Networks through Invariant Risk Minimization [oral session]</b>
             <br><i>Kotaro Yoshida</i>, <i><u>Keigo Tada</u><sup>#</sup></i>, <i>Hiroki Naganuma<sup>#</sup></i>, Forum for Information and Technology 2023 (FIT2023), 2023. # denotes equal contribution
