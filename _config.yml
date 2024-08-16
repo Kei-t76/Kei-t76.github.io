@@ -49,13 +49,13 @@ darkmode: false
 about_title: About Me
 # about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  <h2 style="text-align:center">Researching biological & computer vision
+  <h2 style="text-align:center">Studying on biological & computer vision
 
 content:
   - title: Research Themes # Title for the section
     layout: text # Type of content section (list/text)
     content: | 
-      <h2 style="text-align:center"><font size=4><b>Biological Vision: </b> Retinal neural circuit/Spontaneous oscillation/Retinitis pigmentosa/Photopsia
+      <h2 style="text-align:center"><font size=4><b>Biological Vision: </b> Computational neuroscience/Retinal neural circuit/Spontaneous oscillation/Retinitis pigmentosa/Photopsia
       <h2 style="text-align:center"><font size=4><b>Computer Vision: </b> Out-of-Distribution Generalization/Uncertainty/Calibration
 
     # content:
@@ -118,7 +118,7 @@ content:
             <br><h2 style="text-align:left"><font size=3><b>A computational model for normal and pathological activity of the retinal circuit [poster session]</b>
             <br><i><u>Keigo Tada</u></i>, <i>Katsunori Kitano</i>, The Association for Research in Vision and Ophthalmology (ARVO), 2023.
 
-            
+            <p></p>
             <h2 style="text-align:left"><font size=5><b><font color="#808080">Domestic conference</font></b>
 
             <h2 style="text-align:left"><font size=3><b>A Computational Model for Spontaneous Oscillation in Retinitis Pigmentosa [poster session]</b>
@@ -135,8 +135,9 @@ content:
             <br><h2 style="text-align:left"><font size=3><b>How Image Corruption and Perturbation Affect Out-Of-Distribution Generalization and Calibration [<font color="#dc143c">Travel Grant</font>]</b>
             <br><i><u>Keigo Tada</u></i>, <i>Hiroki Naganuma</i>, International Joint Conference on Neural Networks (IJCNN), 2023.
 
-            
+            <p></p>
             <h2 style="text-align:left"><font size=5><b><font color="#808080">Domestic conference</font></b>
+
             <h2 style="text-align:left"><font size=3><b>Uncertainty Calibration in Deep Neural Networks through Invariant Risk Minimization [oral session]</b>
             <br><i>Kotaro Yoshida</i>, <i><u>Keigo Tada</u><sup>#</sup></i>, <i>Hiroki Naganuma<sup>#</sup></i>, Forum for Information and Technology 2023 (FIT2023), 2023. # denotes equal contribution
 
