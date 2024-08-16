@@ -130,7 +130,10 @@ content:
 
       
       - title: . # Title for the section
+        layout: list # Type of content section (list/text)
 
+
+        
       - layout: left
         title: <font color="#ffa500">Com</font>puter Vision
         # link: boringcompany.com
