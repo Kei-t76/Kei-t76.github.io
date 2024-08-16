@@ -132,7 +132,7 @@ content:
         description: | # this will include new lines to allow paragraphs
             <h2 style="text-align:left"><font size=5><b><font color="#808080">Paper</font></b>
 
-            <br><h2 style="text-align:left"><font size=3><b>How Image Corruption and Perturbation Affect Out-Of-Distribution Generalization and Calibration</b>
+            <br><h2 style="text-align:left"><font size=3><b>How Image Corruption and Perturbation Affect Out-Of-Distribution Generalization and Calibration [<font color="#dc143c">Travel Grant</font>]</b>
             <br><i><u>Keigo Tada</u></i>, <i>Hiroki Naganuma</i>, International Joint Conference on Neural Networks (IJCNN), 2023.
 
             
