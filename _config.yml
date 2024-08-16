@@ -128,6 +128,8 @@ content:
             <h2 style="text-align:left"><font size=3><b>A Computational Model for Spontaneous Oscillation in Retinitis Pigmentosa [poster session]</b>
             <br><i><u>Keigo Tada</u></i>, <i>Katsunori Kitano</i>, The 46th Annual Meeting of the Japan Neuroscience Society, 2023.
 
+            border-bottom: 4px dashed #000000;
+
           
       - layout: left
         title: <font color="#ffa500">Com</font>puter Vision
