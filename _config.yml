@@ -129,7 +129,7 @@ content:
             <br><i><u>Keigo Tada</u></i>, <i>Katsunori Kitano</i>, The 46th Annual Meeting of the Japan Neuroscience Society, 2023.
 
       
-      - title: # Title for the section
+      - title: . # Title for the section
 
       - layout: left
         title: <font color="#ffa500">Com</font>puter Vision
