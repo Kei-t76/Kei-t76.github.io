@@ -106,7 +106,7 @@ content:
         # link: boringcompany.com
         # link_text: boringcompany.com
         description: | # this will include new lines to allow paragraphs
-            <h2 style="text-align:left"><font size=6><b><font color="#808080">International workshop</font></b>
+            <h2 style="text-align:left"><font size=5><b><font color="#808080">International workshop</font></b>
 
             <h2 style="text-align:left"><font size=3><b>The mechanism of retinal oscillations in Trpm1 KO mouse [poster session]</b>
             <br><i>S. Horie</i>, <i>K. Sakuta</i>, <i>T. Nishimoto</i>, <i>H. Tokumoto</i>, <i><u>K. Tada</u></i>, <i>K. Kitano</i>, <i>M. Tachibana</i>, <i>C. Koike</i>, The Association for Research in Vision and Ophthalmology (ARVO), 2024.
@@ -119,10 +119,11 @@ content:
             <br><i><u>Keigo Tada</u></i>, <i>Katsunori Kitano</i>, The Association for Research in Vision and Ophthalmology (ARVO), 2023.
 
             <p></p>
+            <br>
             <p></p>
             <p></p>
 
-            <h2 style="text-align:left"><font size=6><b><font color="#808080">Domestic conference</font></b>
+            <h2 style="text-align:left"><font size=5><b><font color="#808080">Domestic conference</font></b>
 
             <h2 style="text-align:left"><font size=3><b>A Computational Model for Spontaneous Oscillation in Retinitis Pigmentosa [poster session]</b>
             <br><i><u>Keigo Tada</u></i>, <i>Katsunori Kitano</i>, The 46th Annual Meeting of the Japan Neuroscience Society, 2023.
@@ -133,16 +134,17 @@ content:
         # link: boringcompany.com
         # link_text: boringcompany.com
         description: | # this will include new lines to allow paragraphs
-            <h2 style="text-align:left"><font size=6><b><font color="#808080">Paper</font></b>
+            <h2 style="text-align:left"><font size=5><b><font color="#808080">Paper</font></b>
 
             <br><h2 style="text-align:left"><font size=3><b>How Image Corruption and Perturbation Affect Out-Of-Distribution Generalization and Calibration [<font color="#dc143c">Travel Grant</font>]</b>
             <br><i><u>Keigo Tada</u></i>, <i>Hiroki Naganuma</i>, International Joint Conference on Neural Networks (IJCNN), 2023.
 
             <p></p>
+            <br>
             <p></p>
             <p></p>
 
-            <h2 style="text-align:left"><font size=6><b><font color="#808080">Domestic conference</font></b>
+            <h2 style="text-align:left"><font size=5><b><font color="#808080">Domestic conference</font></b>
 
             <h2 style="text-align:left"><font size=3><b>Uncertainty Calibration in Deep Neural Networks through Invariant Risk Minimization [oral session]</b>
             <br><i>Kotaro Yoshida</i>, <i><u>Keigo Tada</u><sup>#</sup></i>, <i>Hiroki Naganuma<sup>#</sup></i>, Forum for Information and Technology 2023 (FIT2023), 2023. # denotes equal contribution
