@@ -10,7 +10,7 @@ name: Keigo Tada
 # title: Graduate school of Information Science and Engineering, Ritsumeikan University 
 email: keigo.tada7676@gmail.com
 # address: 1-1-1 Nojihigashi, Kusatsu, Shiga 525-8577, Japan
-website: https://scholar.google.com/citations?user=_jaYiR0AAAAJ&hl=en
+website: google scholor <a href="https://scholar.google.com/citations?user=_jaYiR0AAAAJ&hl=en">IPSJ2023</a>
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -173,7 +173,7 @@ content:
         # quote: >
         #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            AI development, Image processing, PoC
+            AI development, Image processing, PoC for introducing AI to manufacturing industry
 
   - title: Scholarship
     layout: text
